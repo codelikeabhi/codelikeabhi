@@ -1,8 +1,10 @@
-## 👋 Hi there, I'm Abhishek Sriwastav, I've a passion for technology and problem-solving.
+## 👋 Hi there, I'm Abhishek Sriwastav! 
+
+🔭 I have a passion for technology and problem-solving.
 
 🎓 I'm currently pursuing my degree in Computer Science and actively exploring the realms of **Artificial Intelligence, Machine Learning, and Web Development.**
 
-👯 I’m looking to collaborate on projectS using Artificial Intelligence and Machine Learning.
+👯 I’m looking to collaborate on projects using Artificial Intelligence and Machine Learning.
 
 💬 Ask me about AI, ML, DL, NNs, and Web Dev.
 
