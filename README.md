@@ -8,7 +8,7 @@
 
 💬 Ask me about AI, ML, DL, NNs, and Web Dev.
 
-💻 Alongside AI, Ml, and Werb Dev, I also do Data Structures and Algorithms (DSA) to hone my problem-solving and critical thinking skills.
+💻 Alongside AI, Ml, and Web Dev, I also do Data Structures and Algorithms (DSA) to hone my problem-solving and critical thinking skills.
 
 ✍️ Fun Fact, I learn faster when I document/share my learnings with others. You can find my articles on AI, Machine Learning, and other tech-related topics in my [Weekly Newsletter](https://damndev.substack.com/). Let's Navigate through the world of AI and Beyond.🚀
 
